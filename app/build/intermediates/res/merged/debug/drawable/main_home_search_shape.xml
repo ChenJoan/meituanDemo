@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <corners android:radius="190dp"/>
+    <solid android:color="@color/home_search_bg"/>
+
+</shape>
+<!-- From: file:/D:/openscource/meituan/app/src/main/res/drawable/main_home_search_shape.xml -->
